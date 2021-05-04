@@ -1,4 +1,4 @@
-# 🐙 Hi, I'm Oliver Meredith
+# Hi, I'm Oliver Meredith 🐙
 
 A front-end developer that builds upon a foundation in design. Creator of interesting, exciting digital experiences that build upon an education in UI/UX Design and 5 years experience using a variety of different web technologies. 
 
