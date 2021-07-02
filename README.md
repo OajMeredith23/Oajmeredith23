@@ -4,7 +4,7 @@ A front-end developer that builds upon a foundation in design. Creator of intere
 
 🎓  I've just graduated with a BA(Hons) degree in UX/UI from Ravensbourne University London. 
 
-🦖 ~~I'm looking for work~~ I will be working as a front-end developer ~~either remote or in/around London~~ at The Natural History Museum. 
+🦖 I ~~am looking for work~~ will be working as a front-end developer ~~either remote or in/around London~~ at The Natural History Museum. 
 
 ✍️  I believe in idea-first learning. Not learning technology for the sake of itself, but to build cool stuff. This means being adaptable, flexible, and knowing how to learn quickly!
 
