@@ -1,12 +1,6 @@
 # Hi, I'm Oliver Meredith 🐙
 
-A front-end developer that builds upon a foundation in design. Creator of interesting, exciting digital experiences that build upon an education in UI/UX Design and 5 years experience using a variety of different web technologies. 
-
-🎓  I've just graduated with a BA(Hons) degree in UX/UI from Ravensbourne University London. 
-
-🦖 I ~~am looking for work~~ will be working as a front-end developer ~~either remote or in/around London~~ at The Natural History Museum. 
-
-✍️  I believe in idea-first learning. Not learning technology for the sake of itself, but to build cool stuff. This means being adaptable, flexible, and knowing how to learn quickly!
+Front-end dev at [The Natural History Museum, London(https://nhm.ac.uk)
 
 📬. You can contact me at [mail@olivermeredith.com](mailto:mail@olivermeredith.com)
 <!--
