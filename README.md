@@ -1,6 +1,6 @@
 # Hi, I'm Oliver Meredith 🐙
 
-Front-end dev at [The Natural History Museum, London](https://nhm.ac.uk)
+Front-end dev at [The Natural History Museum, London](href:https://nhm.ac.uk)
 
 📬. You can contact me at [mail@olivermeredith.com](mailto:mail@olivermeredith.com)
 <!--
